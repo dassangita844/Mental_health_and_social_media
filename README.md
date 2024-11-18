@@ -66,7 +66,7 @@ Variables from `without_purpose` to `sleeping_issues` are measured on a Likert s
    - Encoding categorical variables for analysis.  
 
 2. **Composite Index Creation**:  
-   - Constructing a composite Negative Impact Score using variables like `distraction`, `worries`, `validation`, and `depressed`.  
+   - Constructing a composite Negative Impact Score using 12 variables such as `distraction`, `worries`, `validation`, and `depressed` etc.  
 
 3. **Machine Learning Models**:  
    - Regression and classification models to analyze the relationships between social media usage patterns and mental health indicators.  
