@@ -83,4 +83,4 @@ For any questions or feedback, contact **Sangita Das** at:
 This project is licensed under the MIT License. See the LICENSE file for details.  
 
 ## **Acknowledgments**  
-Special thanks to Kaggle for providing the dataset and the open-source community for tools and frameworks used in this project.
+Special thanks to Kaggle for providing the dataset and to Python, the programming language used in Google Colab, for facilitating the tools and frameworks that made this project possible.
